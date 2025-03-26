@@ -5,3 +5,4 @@ A simple local multiplayer game that can be played with up to four people and ha
 -  Arrow keys to move for player 2
 -  YGHJ to move for player 3
 -  A connected controller is required for player 4
+-  ~ key to access developer console
